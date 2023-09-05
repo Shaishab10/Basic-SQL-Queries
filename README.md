@@ -6,7 +6,7 @@ This repository contains a collection of basic SQL queries for working with MySQ
 - SQLyog
 
 
-## Queries executed based on:
+## Execution of queries based on:
 1. Create a database named database_assignment.
 2. Create a table named customers.
 3. Insert the following customer data:
